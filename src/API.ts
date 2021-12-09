@@ -11,8 +11,8 @@ export const quizData = [
     id: 1,
     question: 'What is the capital of Ukraine?',
     correct_answer: 'Kyiv',
-    incorrect_answers: ['Sofia', 'Odessa', 'Vilnius'],
-    all_answers: ['Sofia', 'Kyiv', 'Odessa', 'Vilnius'],
+    incorrect_answers: ['Lviv', 'Odesa', 'Vilnius'],
+    all_answers: ['Lviv', 'Kyiv', 'Odesa', 'Vilnius'],
   },
   {
     id: 2,
